@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAPURA_LA4", "LAPURA_LA4\LAPURA_LA4.csproj", "{9A144296-2DB4-4D22-86BE-C43EDD65689C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A144296-2DB4-4D22-86BE-C43EDD65689C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A144296-2DB4-4D22-86BE-C43EDD65689C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A144296-2DB4-4D22-86BE-C43EDD65689C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A144296-2DB4-4D22-86BE-C43EDD65689C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8E8D795-41FA-4D82-A7CD-58C527406D9C}
+	EndGlobalSection
+EndGlobal
